@@ -1,4 +1,8 @@
+<div align="center">
+  
 # 👋 Hi, I'm Nasir Akram
+
+</div>
 
 ![Banner Image](https://via.placeholder.com/1200x300.png?text=Nasir+Akram+Andriod+Developer) <!-- Replace with an actual image link -->
 
