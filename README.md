@@ -46,7 +46,7 @@ _An Android app that calculates BMI and provides health advice based on the resu
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/your-linkedin) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![LinkedIn](https://www.linkedin.com/in/nasir-akram-387522211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Instagram](https://www.instagram.com/nasirakramn/profilecard/?igsh=MTluYWdlMnZhem5zcg==)
 
 ---
 
