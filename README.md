@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nasir Akram
 
-![Banner Image](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Profile) <!-- Replace with an actual image link -->
+![Banner Image](https://via.placeholder.com/1200x300.png?text=Nasir+Akram+Andriod+Developer) <!-- Replace with an actual image link -->
 
 I'm an Android developer with a strong foundation in **Java** and **Kotlin**, as well as web development skills in **HTML**, **CSS**, and **JavaScript**. With a passion for building innovative mobile applications and a keen eye for detail, I aim to deliver high-quality user experiences.
 
