@@ -1,41 +1,46 @@
-<h1 align="center">Hi 👋, I'm Nasir Akram</h1>
-<h3 align="center">A passionate Android Developer from Paksitan</h3>
+# 👋 Hi, I'm Nasir Akram
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasirakram&label=Profile%20views&color=0e75b6&style=flat" alt="nasirakram" /> </p>
+![Banner Image](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Profile) <!-- Replace with an actual image link -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasirakram" alt="nasirakram" /></a> </p>
+I'm an Android developer with a strong foundation in **Java** and **Kotlin**, as well as web development skills in **HTML**, **CSS**, and **JavaScript**. With a passion for building innovative mobile applications and a keen eye for detail, I aim to deliver high-quality user experiences.
 
-<p align="left"> <a href="https://twitter.com/nasirakram" target="blank"><img src="https://img.shields.io/twitter/follow/nasirakram?logo=twitter&style=for-the-badge" alt="nasirakram" /></a> </p>
+---
 
-- 🔭 I’m currently working on [Restaurant App](https://github.com/NasirAkra/AdminWave_of_Food.git)
+## 🚀 About Me
+- 🎓 Android Developer with a focus on Java and Kotlin
+- 🌐 Web Development skills: HTML, CSS, JavaScript
+- 🎯 Passionate about clean code, UI/UX design, and efficient solutions
 
-- 🌱 I’m currently learning **Android Development**
+---
 
-- 👯 I’m looking to collaborate on [Restaurant App](https://github.com/NasirA)
+## 🛠️ Languages & Tools
+- **Languages**: ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+- **Frameworks**: ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat)
+- **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
-- 👨‍💻 All of my projects are available at [https://github.com/NasirAkra](https://github.com/NasirAkra)
+---
 
-- 💬 Ask me about **Ionic/Angular**
+## 🌟 Featured Projects
 
-- 📫 How to reach me **paknasirakram@gmail.com**
+### 🚀 Currency Calculator
+_A user-friendly app to calculate exchange rates in real-time._
 
-- ⚡ Fun fact **I Love with code and paly.**
+### 📝 To-Do App
+_An efficient to-do app to keep track of daily tasks with a sleek UI._
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nasirakram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nasirakram" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nasirakram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasirakram" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nasir akram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nasir akram" height="30" width="40" /></a>
-<a href="https://fb.com/nasir akram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nasir akram" height="30" width="40" /></a>
-<a href="https://instagram.com/nasiakram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasiakram" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nasirakarm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nasirakarm" height="30" width="40" /></a>
-</p>
+### 🎲 Tic-Tac-Toe Game
+_A classic game developed with Java and Kotlin._
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 📊 BMI Calculator
+_An Android app that calculates BMI and provides health advice based on the result._
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasirakram&show_icons=true&locale=en&layout=compact" alt="nasirakram" /></p>
+![Project Showcase](https://via.placeholder.com/800x400.png?text=Project+Showcase) <!-- Add images/screenshots of your projects -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasirakram&show_icons=true&locale=en" alt="nasirakram" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasirakram&" alt="nasirakram" /></p>
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/your-linkedin) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)
+
+---
+
+Thank you for visiting my GitHub profile! Feel free to check out my repositories and contribute to projects I'm passionate about. Let's build something amazing together!
