@@ -14,6 +14,9 @@ I'm an Android developer with a strong foundation in **Java** and **Kotlin**, as
 - 🎓 Android Developer with a focus on Java and Kotlin
 - 🌐 Web Development skills: HTML, CSS, JavaScript
 - 🎯 Passionate about clean code, UI/UX design, and efficient solutions
+- ### 📫 How to reach me: [paknasirakram@gmail.com](mailto:paknasirakram@gmail.com)
+
+
 
 ---
 
