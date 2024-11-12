@@ -4,7 +4,7 @@
 
 </div>
 
-![Banner Image](https://via.placeholder.com/1200x300.png?text=Nasir+Akram+Andriod+Developer) <!-- Replace with an actual image link -->
+![Banner Image](https://via.placeholder.com/1200x300.png?text=Nasir+Akram+Android+Developer) <!-- Replace with an actual image link -->
 
 I'm an Android developer with a strong foundation in **Java** and **Kotlin**, as well as web development skills in **HTML**, **CSS**, and **JavaScript**. With a passion for building innovative mobile applications and a keen eye for detail, I aim to deliver high-quality user experiences.
 
@@ -15,8 +15,6 @@ I'm an Android developer with a strong foundation in **Java** and **Kotlin**, as
 - 🌐 Web Development skills: HTML, CSS, JavaScript
 - 🎯 Passionate about clean code, UI/UX design, and efficient solutions
 - ### 📫 How to reach me: [paknasirakram@gmail.com](mailto:paknasirakram@gmail.com)
-
-
 
 ---
 
@@ -41,12 +39,32 @@ _A classic game developed with Java and Kotlin._
 ### 📊 BMI Calculator
 _An Android app that calculates BMI and provides health advice based on the result._
 
-![Project Showcase](https://via.placeholder.com/800x400.png?text=Project+Showcase) <!-- Add images/screenshots of your projects -->
+---
+
+## 🍽️ **Restaurant App: User & Admin Panel**
+
+I have also developed a **Restaurant App** that features both **User** and **Admin** panels. This app allows users to browse the menu, place orders, and manage their profile, while the Admin panel allows restaurant owners to manage orders, update the menu, and track customer activities.
+
+### **User Panel**
+- **Menu Browsing**: View available food items along with their prices and images.
+- **Order Placement**: Users can add food items to the cart and place orders.
+- **Profile Management**: Users can update their personal information and view order history.
+- **Real-Time Notifications**: Receive notifications about order status and promotions.
+
+### **Admin Panel**
+- **Order Management**: Admin can view all customer orders, including order details and status.
+- **Menu Management**: Admin can add, remove, or update food items in the menu.
+- **User Management**: Admin can manage customer profiles, including updating or deleting user information.
+- **Analytics**: View order statistics and trends to make informed decisions.
+
+![Restaurant App - User Panel](https://via.placeholder.com/800x400.png?text=Restaurant+App+User+Panel) <!-- Replace with actual screenshots -->
+![Restaurant App - Admin Panel](https://via.placeholder.com/800x400.png?text=Restaurant+App+Admin+Panel) <!-- Replace with actual screenshots -->
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/nasir-akram-387522211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Instagram](https://www.instagram.com/nasirakramn/profilecard/?igsh=MTluYWdlMnZhem5zcg==)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/nasir-akram-387522211)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/nasirakramn)
 
 ---
 
