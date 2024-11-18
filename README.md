@@ -5,7 +5,7 @@
 </div>
 
 ![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/2cdc68a9-0e1a-4a04-9808-aa7f83b67f64)
-) <!-- Replace with an actual image link -->
+ <!-- Replace with an actual image link -->
 
 <div align="center">
 I'm an Android developer with a strong foundation in **Java** and **Kotlin**, as well as web development skills in **HTML**, **CSS**, and **JavaScript**. With a passion for building innovative mobile applications and a keen eye for detail, I aim to deliver high-quality user experiences.
