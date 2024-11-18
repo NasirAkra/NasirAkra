@@ -14,12 +14,12 @@ I'm an Android developer with a strong foundation in **Java** and **Kotlin**, as
 
 
 ---
-<div align="center">
+
   
 
 ## 🚀 About Me
 
-</div>
+
 
 - 🎓 Android Developer with a focus on Java and Kotlin
 - 🌐 Web Development skills: HTML, CSS, JavaScript
@@ -27,12 +27,12 @@ I'm an Android developer with a strong foundation in **Java** and **Kotlin**, as
 - ### 📫 How to reach me: [paknasirakram@gmail.com](mailto:paknasirakram@gmail.com)
 
 ---
-<div align="center">
+
   
 
 ## 🛠️ Languages & Tools
 
-</div>
+
 
 
 - **Languages**: ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -40,17 +40,17 @@ I'm an Android developer with a strong foundation in **Java** and **Kotlin**, as
 - **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
 ---
-<div align="center">
+
   
 
 ## 🌟 Featured Projects
-</div>
 
-<div align="center">
+
+
   
 
 ### 🚀 Currency Calculator
-</div>
+
 
 
 _A user-friendly app to calculate exchange rates in real-time._
@@ -60,23 +60,23 @@ _A user-friendly app to calculate exchange rates in real-time._
 
 
 ### 📝 To-Do App
-</div>
+
 _An efficient to-do app to keep track of daily tasks with a sleek UI._
-<div align="center">
+
   
 
 
 ### 📝 To-Do App
-</div>
+
 
 _A classic game developed with Java and Kotlin._
 
 
-<div align="center">
+
   
 
 ### 📊 BMI Calculator
-</div>
+
 
 _An Android app that calculates BMI and provides health advice based on the result._
 
