@@ -98,8 +98,9 @@ I have also developed a **Restaurant App** that features both **User** and **Adm
 - **User Management**: Admin can manage customer profiles, including updating or deleting user information.
 - **Analytics**: View order statistics and trends to make informed decisions.
 
-![Restaurant App - User Panel](https://via.placeholder.com/800x400.png?text=Restaurant+App+User+Panel) <!-- Replace with actual screenshots -->
-![Restaurant App - Admin Panel](https://via.placeholder.com/800x400.png?text=Restaurant+App+Admin+Panel) <!-- Replace with actual screenshots -->
+![Restaurant App - User Panel](https://github.com/user-attachments/assets/b9445225-86b4-4247-83e4-0f180dc2c40d)
+ <!-- Replace with actual screenshots -->
+![Restaurant App - Admin Panel](https://github.com/user-attachments/assets/bc23bcd9-d8c8-431b-8c6d-9bd4355078c8)<!-- Replace with actual screenshots -->
 
 ---
 
