@@ -36,9 +36,10 @@ I'm an **Android Developer** with expertise in **Java**, **Kotlin**, and web tec
 | ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat) | ![65%](https://progress-bar.dev/65) |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) | ![60%](https://progress-bar.dev/60) |
 
-### **Frameworks & Tools**
+### **Frameworks, Databases & Tools**
 
 - **Frameworks**: ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat)
+- **Databases**: ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
 - **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
 ---
