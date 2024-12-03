@@ -1,9 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm **Nasir Akram**
+# 👋 Hi, I'm <span style="color:#4CAF50; font-weight:bold;">Nasir Akram</span>
 
-![Animated Banner](https://github.com/user-attachments/assets/2cdc68a9-0e1a-4a04-9808-aa7f83b67f64)
-<!-- Replace the link with an actual image or animated banner URL -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&lines=I+am+Nasir+Akram;Android+Developer;Java+%26+Kotlin+Enthusiast;Web+Technologies+Specialist;Passionate+about+Innovation" alt="Typing SVG">
 
 </div>
 
@@ -30,11 +29,11 @@ I'm an **Android Developer** with expertise in **Java**, **Kotlin**, and web tec
 
 | Language       | Proficiency |
 |----------------|-------------|
-| ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) | ![80%](https://progress-bar.dev/80) |
-| ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat) | ![75%](https://progress-bar.dev/75) |
-| ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat) | ![70%](https://progress-bar.dev/70) |
-| ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat) | ![65%](https://progress-bar.dev/65) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) | ![60%](https://progress-bar.dev/60) |
+| **Java**       | ![80%](https://progress-bar.dev/80) |
+| **Kotlin**     | ![75%](https://progress-bar.dev/75) |
+| **HTML**       | ![70%](https://progress-bar.dev/70) |
+| **CSS**        | ![65%](https://progress-bar.dev/65) |
+| **JavaScript** | ![60%](https://progress-bar.dev/60) |
 
 ### **Frameworks, Databases & Tools**
 
@@ -70,10 +69,6 @@ _An Android app to calculate BMI and provide health advice._
 - **Menu Management**: Add, update, or remove menu items.
 - **User Management**: Manage customer profiles and data.
 - **Analytics**: View order trends for data-driven decisions.
-
-![Restaurant App - User Panel](https://github.com/user-attachments/assets/b9445225-86b4-4247-83e4-0f180dc2c40d)
-![Restaurant App - Admin Panel](https://github.com/user-attachments/assets/bc23bcd9-d8c8-431b-8c6d-9bd4355078c8)
-<!-- Replace the links with actual screenshots -->
 
 ---
 
