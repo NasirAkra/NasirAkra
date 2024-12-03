@@ -29,11 +29,12 @@ I'm an **Android Developer** with expertise in **Java**, **Kotlin**, and web tec
 
 | Language       | Proficiency |
 |----------------|-------------|
-| **Java**       | ![80%](https://progress-bar.dev/80) |
-| **Kotlin**     | ![75%](https://progress-bar.dev/75) |
-| **HTML**       | ![70%](https://progress-bar.dev/70) |
-| **CSS**        | ![65%](https://progress-bar.dev/65) |
-| **JavaScript** | ![60%](https://progress-bar.dev/60) |
+| **Java**       | ![Java Progress](https://path_to_animated_gif_or_svg) ![Java Icon](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) **80%** |
+| **Kotlin**     | ![Kotlin Progress](https://path_to_animated_gif_or_svg) ![Kotlin Icon](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) **75%** |
+| **HTML**       | ![HTML Progress](https://path_to_animated_gif_or_svg) ![HTML Icon](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) **70%** |
+| **CSS**        | ![CSS Progress](https://path_to_animated_gif_or_svg) ![CSS Icon](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) **65%** |
+| **JavaScript** | ![JavaScript Progress](https://path_to_animated_gif_or_svg) ![JavaScript Icon](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) **60%** |
+
 
 ### **Frameworks, Databases & Tools**
 
