@@ -27,15 +27,33 @@ I'm an **Android Developer** with expertise in **Java**, **Kotlin**, and web tec
 
 ## 🛠️ **Languages & Tools**
 
-### **Programming Languages**
+###
 
-| Language       | Proficiency |
-|----------------|-------------|
-| **Java**       | ![Java Progress](https://path_to_animated_gif_or_svg) ![Java Icon](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) **80%** |
-| **Kotlin**     | ![Kotlin Progress](https://path_to_animated_gif_or_svg) ![Kotlin Icon](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) **75%** |
-| **HTML**       | ![HTML Progress](https://path_to_animated_gif_or_svg) ![HTML Icon](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) **70%** |
-| **CSS**        | ![CSS Progress](https://path_to_animated_gif_or_svg) ![CSS Icon](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) **65%** |
-| **JavaScript** | ![JavaScript Progress](https://path_to_animated_gif_or_svg) ![JavaScript Icon](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) **60%** |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+</div>
+
+###
+
 
 
 ### **Frameworks, Databases & Tools**
@@ -80,6 +98,8 @@ _An Android app to calculate BMI and provide health advice._
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/nasir-akram-387522211)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/nasirakramn)
 
+
 ---
+
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me to collaborate on exciting projects. Together, we can build amazing things!
