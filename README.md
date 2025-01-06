@@ -4,7 +4,7 @@
 # 👋 Hi, I'm <span style="color:#4CAF50; font-weight:bold;">Nasir Akram</span>
 ![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/2cdc68a9-0e1a-4a04-9808-aa7f83b67f64)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&lines=I+am+Nasir+Akram;Android+Developer;Java+%26+Kotlin+Enthusiast;Web+Technologies+Specialist;Passionate+about+Innovation" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&lines=I+am+Nasir+Akram;Android+Developer+Specialist;Java+%26+Kotlin+Enthusiast;Web+Technologies;Passionate+about+Innovation" alt="Typing SVG">
 
 </div>
 
