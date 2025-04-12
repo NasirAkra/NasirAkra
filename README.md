@@ -10,8 +10,13 @@
 
 <div align="center">
 
-I'm an **Android Developer** with expertise in **Java**, **Kotlin**, and web technologies like **HTML**, **CSS**, and **JavaScript**. I have a passion for creating innovative mobile applications with elegant designs and delivering exceptional user experiences.
+I'm a Web and App Developer with 6 months of hands-on experience in mobile app development and 4 months in building responsive, user-friendly websites and web applications using React.js.
 
+Proficient in HTML, CSS, JavaScript, and React.js, I bring a strong foundation in frontend development along with practical experience in developing Android applications using Java and Kotlin. My work includes creating modern UIs, implementing responsive design, integrating RESTful APIs, and ensuring performance optimization.
+
+Throughout my journey, I’ve contributed to both mobile and web projects, actively participating in development lifecycles, collaborating with peers, and improving code quality through debugging and testing. I’m well-versed in tools like VS Code, Git, and Chrome DevTools, and follow best practices in both mobile and web development environments.
+
+Passionate about clean, maintainable code and staying updated with new technologies, I’m eager to continue growing and take on new challenges. My goal is to build impactful digital experiences and become a valuable part of a forward-thinking development team.
 </div>
 
 ---
