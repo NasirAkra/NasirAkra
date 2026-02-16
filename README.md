@@ -1,11 +1,11 @@
 <div align="center">
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&lines=Meet+Me;" alt="Typing SVG">
 
 # 👋 Hi, I'm <span style="color:#4CAF50; font-weight:bold;">Nasir Akram</span>
 ![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/2cdc68a9-0e1a-4a04-9808-aa7f83b67f64)
-https://github.com/NasirAkra/NasirAkra/blob/cc9985ecafa561ac42c09d44fbc995d857407d3e/Black%20and%20White%20Modern%20Clean%20Professional%20Programmer%20LinkedIn%20Background.png
 
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&lines=I+am+Nasir+Akram;MERN+Stack+Developer;JavaScript+%26+React.js+Enthusiast;Passionate+about+Innovation" alt="Typing SVG">
+</div>
 
 ---
 
@@ -34,6 +34,10 @@ I am passionate about delivering **robust, efficient, and scalable applications*
 
 ## 🛠️ **Languages & Tools**
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ### **Programming Languages**
 
