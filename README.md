@@ -2,9 +2,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&lines=Meet+Me;" alt="Typing SVG">
 
 # 👋 Hi, I'm <span style="color:#4CAF50; font-weight:bold;">Nasir Akram</span>
-![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/2cdc68a9-0e1a-4a04-9808-aa7f83b67f64)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&lines=I+am+Nasir+Akram;MERN+Stack+Developer;JavaScript+%26+React.js+Enthusiast;Passionate+about+Innovation" alt="Typing SVG">
+
+<img src="https://github.com/NasirAkra/NasirAkra/blob/cb128d3218907658c28051258765dffa2ea4ef26/Black%20and%20White%20Modern%20Clean%20Professional%20Programmer%20LinkedIn%20Background.png" alt="Typing SVG">
 </div>
 
 ---
