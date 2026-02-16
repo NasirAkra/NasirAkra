@@ -4,20 +4,20 @@
 # 👋 Hi, I'm <span style="color:#4CAF50; font-weight:bold;">Nasir Akram</span>
 ![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/2cdc68a9-0e1a-4a04-9808-aa7f83b67f64)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&lines=I+am+Nasir+Akram;Android+Developer+Specialist;Java+%26+Kotlin+Enthusiast;Web+Technologies+with+React.js;Passionate+about+Innovation" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&lines=I+am+Nasir+Akram;MERN+Stack+Developer;JavaScript+%26+React.js+Enthusiast;Passionate+about+Innovation" alt="Typing SVG">
 </div>
 
 ---
 
 <div align="center">
 
-I'm a **Web and App Developer** with **6 months** of hands-on experience in **Android development** and **4 months** in building responsive, user-friendly websites and web applications using **React.js**.
+I'm a **Full-Stack Developer** specializing in the **MERN stack** with hands-on experience in **MongoDB, Express.js, React.js, and Node.js**. I create scalable web applications with clean architecture, responsive UIs, and smooth user experiences.
 
-Proficient in **HTML**, **CSS**, **JavaScript**, and **React.js**, I bring a strong foundation in frontend development, along with practical experience in building Android applications using **Java** and **Kotlin**. I create modern UIs, implement responsive designs, integrate RESTful APIs, and focus on performance optimization.
+I bring a strong foundation in **JavaScript**, **HTML**, **CSS**, and **React.js**, along with backend expertise in **Node.js** and **Express.js**. I develop RESTful APIs, integrate databases like **MongoDB**, and optimize performance while ensuring code quality.
 
-I’ve contributed to various mobile and web projects, actively participated in development lifecycles, collaborated with peers, and improved code quality through debugging and testing. I’m familiar with tools like **VS Code**, **Git**, **GitHub**, and **Chrome DevTools**, and I follow best practices in both mobile and web development.
+I’ve contributed to multiple web projects, actively participated in development lifecycles, collaborated with peers, and implemented best practices for maintainable code. Familiar with **VS Code**, **Git**, **GitHub**, and modern frontend and backend workflows.
 
-I'm passionate about writing clean, maintainable code, and I'm always eager to learn and grow. My goal is to build impactful digital experiences and be a part of innovative development teams.
+I am passionate about delivering **robust, efficient, and scalable applications** and continuously expanding my skill set to innovate in web development.
 
 </div>
 
@@ -25,69 +25,57 @@ I'm passionate about writing clean, maintainable code, and I'm always eager to l
 
 ## 🚀 **About Me**
 
-- 📱 Android Developer focusing on **Java** and **Kotlin**
-- 🌐 Web Development with **HTML**, **CSS**, **JavaScript**, and **React.js**
-- 🎨 Styling with **Bootstrap** and **Tailwind CSS**
-- 🔧 Strong believer in **clean code**, **UI/UX design**, and **scalable apps**
+- 🌐 MERN Stack Developer: **MongoDB, Express.js, React.js, Node.js**
+- 🎨 Frontend Development with **HTML**, **CSS**, **JavaScript**, **React.js**
+- 🔧 Strong believer in **clean code**, **scalable architecture**, and **UI/UX design**
 - 📧 Reach me at: [paknasirakram@gmail.com](mailto:paknasirakram@gmail.com)
 
 ---
 
 ## 🛠️ **Languages & Tools**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ### **Programming Languages**
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js" />
 </div>
 
 ### **Frameworks, Libraries & Tools**
 
 - **Frontend**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
-- **Android**: ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat)
-- **Databases**: ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
+- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+- **Databases**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
 ---
 
 ## 🌟 **Featured Projects**
 
-### 🚀 **Currency Calculator**
-_A user-friendly app to calculate exchange rates in real-time._
+### 🚀 **E-Commerce App**
+_A full-stack e-commerce platform with user authentication, product management, and payment integration using the MERN stack._
 
-### 📝 **To-Do App**
-_An efficient to-do app to keep track of daily tasks with a sleek UI._
+### 📝 **Task Manager**
+_A productivity app built with **React.js** and **Node.js** to manage tasks and track progress._
 
-### 🎮 **Classic Game**
-_A classic game built with **Java** and **Kotlin**._
+### 📊 **Blog Platform**
+_A MERN stack blog platform with CRUD operations, rich text editing, and comments._
 
-### 📊 **BMI Calculator**
-_An Android app to calculate BMI and provide health advice._
-
-### 🍽️ **Restaurant App: User & Admin Panel**
-
-#### **User Panel**
-- Menu Browsing, Order Placement, Profile Management
-
-#### **Admin Panel**
-- Order & Menu Management, User Control, Analytics Dashboard
+### 🍽️ **Restaurant App**
+- **User Panel**: Browse menu, place orders, manage profile  
+- **Admin Panel**: Manage orders, products, users, and analytics dashboard
 
 ---
 
